@@ -1,4 +1,4 @@
-# 🤖 Automação de Envio de Cardápios via WhatsApp Web
+# 🤖 Automação de Envio de Imagens via WhatsApp 🤖
 
 Este projeto é uma automação feita em Python com Selenium para **encaminhar imagens via WhatsApp Web** para uma lista de contatos, como por exemplo o cardápio diário de um restaurante.
 
